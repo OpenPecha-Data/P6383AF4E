@@ -1,0 +1,33 @@
+id: P6383AF4E
+initial_creation_type: input
+source_metadata:
+  title: Sikkim Series
+  language: bo
+  description: 'Texts related to the land of Sikkim, known to Tibetans as the ''valley
+    of rice'' (‘bras ljongs):'
+  volume:
+    d9413590e51244049eb562f5f7e1499e:
+      title: Notes on Chögyal Puntsok Rigdzin and Lhatsün Namkha Jigme’s Incarnations
+      parent: History
+    3b82468b31094c10b920ebaec327bad0:
+      title: Royal Genealogy of Sikkim
+      parent: History
+    7a70aa29ca0f4454b6958e9f233c56bd:
+      title: Offering to the Nāgas of Gangtok
+      parent: Offering
+    44a1e87315844d1091af883dd500c23c:
+      title: Aspiration Written on the Occasion of Princess Sangdé’s Passing in Sikkim
+      parent: Prayers
+    0cddedec7cd94c5d8faff4cc1c449446:
+      title: 'Burgeoning Joy and Happiness: An Aspiration for the Welfare of the Great
+        Hidden Land of Sikkim'
+      parent: Prayers
+    3be1b0b237764bbdafe1af20b4f5427e:
+      title: Song that Arose Spontaneously at Taktse Podrang, Sikkim
+      parent: Songs
+    381139bf0bf04e199dbbbc712e379850:
+      title: Upon Hearing the Fluted Speech of Kunzang Dechen Tsomo, Queen Mother
+        of Sikkim
+      parent: Songs
+created_at: '2022-03-01T05:48:28.721347'
+last_modified_at: '2022-03-01T05:48:28.721350'
